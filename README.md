@@ -1,2 +1,2 @@
 # Fusion
-Site Mostrando uma Equipe de Desenvolvimento de software ,com backend em django
+Site para cadastro de produtos 
